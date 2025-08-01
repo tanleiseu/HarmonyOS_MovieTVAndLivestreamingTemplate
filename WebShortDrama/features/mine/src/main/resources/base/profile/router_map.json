@@ -1,0 +1,29 @@
+{
+  "routerMap": [
+    {
+      "name": "MineMainPage",
+      "pageSourceFile": "src/main/ets/pages/MineMainPage.ets",
+      "buildFunction": "MineMainPageBuilder"
+    },
+    {
+      "name": "MyFavoritesPage",
+      "pageSourceFile": "src/main/ets/pages/MyFavoritesPage.ets",
+      "buildFunction": "MyFavoritesPageBuilder"
+    },
+    {
+      "name": "WatchRecordsPage",
+      "pageSourceFile": "src/main/ets/pages/WatchRecordsPage.ets",
+      "buildFunction": "WatchRecordsPageBuilder"
+    },
+    {
+      "name": "PersonalInfoPage",
+      "pageSourceFile": "src/main/ets/pages/PersonalInfoPage.ets",
+      "buildFunction": "PersonalInfoPageBuilder"
+    },
+    {
+      "name": "ChangePage",
+      "pageSourceFile": "src/main/ets/pages/ChangePage.ets",
+      "buildFunction": "ChangePageBuilder"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "modelVersion": "5.0.0",
+  "description": "Please describe the basic information.",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@ohos/hypium": "1.0.19"
+  },
+  "overrides": {
+    "@agctemplate/utils": "file:./commons/utils",
+    "@agctemplate/common": "file:./commons/common",
+    "@agctemplate/server": "file:./commons/server",
+    "@agctemplate/resources": "file:./commons/resources",
+    "@agctemplate/widgets": "file:./commons/widgets",
+    "@agctemplate/frame": "file:./features/frame",
+    "@agctemplate/home": "file:./features/home",
+    "@agctemplate/mine": "file:./features/mine",
+    "@agctemplate/detail": "file:./features/detail",
+    "@agctemplate/theater": "file:./features/theater",
+    "@agctemplate/login": "file:./features/login",
+    "@agctemplate/video_swiper": "file:./components/video_swiper"
+  }
+}

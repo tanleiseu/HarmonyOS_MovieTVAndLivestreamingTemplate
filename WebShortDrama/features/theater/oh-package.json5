@@ -1,0 +1,15 @@
+{
+  "name": "@agctemplate/theater",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "packageType": "InterfaceHar",
+  "dependencies": {
+    "@agctemplate/utils": "1.0.0",
+    "@agctemplate/resources": "1.0.0",
+    "@agctemplate/widgets": "1.0.0",
+    "@agctemplate/server": "1.0.0",
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "短剧模板"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "短剧模板"
+    },
+    {
+      "name": "DramaCard_desc",
+      "value": "追短剧必备神器"
+    },
+    {
+      "name": "DramaCard_display_name",
+      "value": "短剧模板"
+    },
+    {
+      "name": "title_immersive",
+      "value": "追短剧必备神器"
+    },
+    {
+      "name": "detail_immersive",
+      "value": "海量热门短剧随心看"
+    }
+  ]
+}

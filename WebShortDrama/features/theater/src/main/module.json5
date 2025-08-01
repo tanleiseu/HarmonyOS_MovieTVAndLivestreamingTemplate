@@ -1,0 +1,12 @@
+{
+  "module": {
+    "name": "theater",
+    "type": "shared",
+    "deviceTypes": [
+      "phone"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": true,
+    "routerMap": "$profile:router_map"
+  }
+}

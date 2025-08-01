@@ -1,0 +1,1 @@
+export { jumpDetailPage } from './src/main/ets/page/ShortDramaDetailPage'

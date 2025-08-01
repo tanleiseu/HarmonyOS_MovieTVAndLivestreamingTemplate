@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "短剧模板"
+    },
+    {
+      "name": "agcit_huawei_web_short_drama",
+      "value": "1.0.0"
+    },
+    {
+      "name": "agcittype_huawei_web_short_drama",
+      "value": "industryTemplate"
+    },
+    {
+      "name": "agcitkid_huawei_web_short_drama",
+      "value": "agcit_huawei_video_swiper/1.0.0"
+    }
+  ]
+}

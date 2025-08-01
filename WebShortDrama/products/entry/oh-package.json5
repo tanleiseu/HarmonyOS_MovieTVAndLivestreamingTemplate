@@ -1,0 +1,20 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@agctemplate/utils": "1.0.0",
+    "@agctemplate/frame": "1.0.0",
+    "@agctemplate/resources": "1.0.0",
+    "@agctemplate/widgets": "1.0.0",
+    "@agctemplate/home": "1.0.0",
+    "@agctemplate/mine": "1.0.0",
+    "@agctemplate/detail": "1.0.0",
+    "@agctemplate/theater": "1.0.0",
+    "@agctemplate/login": "1.0.0"
+  }
+}
+

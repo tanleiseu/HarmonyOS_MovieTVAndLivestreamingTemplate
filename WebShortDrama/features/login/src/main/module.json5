@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "login",
+    "type": "shared",
+    "deviceTypes": [
+      "phone"
+    ],
+    "installationFree":true,
+    'deliveryWithInstall': true,
+  }
+}

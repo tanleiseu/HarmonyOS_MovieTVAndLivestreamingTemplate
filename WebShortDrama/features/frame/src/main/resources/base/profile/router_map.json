@@ -1,0 +1,9 @@
+{
+  "routerMap": [
+    {
+      "name": "MainTabPage",
+      "pageSourceFile": "src/main/ets/view/pages/MainTabPage.ets",
+      "buildFunction": "MainTabPageBuilder"
+    }
+  ]
+}
