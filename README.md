@@ -17,4 +17,4 @@ Github（官方）：https://github.com/AppGalleryConnect/agc-template-market-ha
 
 | 影视直播类（网络短剧）行业模板 | 
 |:---:|
-|![输入图片说明](WebShortDrama/screenshots/%E9%A6%96%E9%A1%B5.jpeg)| 
+|![输入图片说明](%E7%BD%91%E7%BB%9C%E7%9F%AD%E5%89%A7%E5%85%83%E6%9C%8D%E5%8A%A1%E6%A8%A1%E6%9D%BF.png)| 
